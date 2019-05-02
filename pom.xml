@@ -7,6 +7,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>HelloWorld Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+	
+	<!--demo on github webhook--->
   <build>
     <finalName>HelloWorld</finalName>
     <pluginManagement>
